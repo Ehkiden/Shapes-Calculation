@@ -1,0 +1,15 @@
+Rectangle 2.44 3.6
+Sphere 1.84
+Cuboid 1.22 0.6 1.4
+Cylinder 2.45 1.22
+Rectangle 1.22 7.2
+Circle 2.45
+Cuboid 2.44 1.2 1.4
+Circle 1.22
+Sphere 1.22
+Cylinder 1.22 2.45
+Rectangle 3.6 2.44
+Sphere 1.4
+Circle 3.6
+Cuboid 1.4 2.44 0.6
+Cylinder 1.4 2.02
